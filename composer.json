@@ -1,0 +1,18 @@
+{
+    "name": "thomasm789/youtube-partner",
+    "description": "PHP library for Youtube Content ID API v1",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Thomas Mason",
+            "email": "contact@tmason.co.uk"
+        }
+    ],
+    "type": "package",
+    "autoload": {
+      "files": [
+            "YouTubePartner.php"
+        ]
+	
+}
+}
