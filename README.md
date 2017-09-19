@@ -1,9 +1,10 @@
 PHP library for Youtube Content ID API v1
 
 
-Created on 2016-08-01 at 20:20:12 UTC
+Created on 2017-09-15 at 21:05:49 UTC
 
 Requirements:
 
 Google API PHP Client, version 1.1.1
 URL: https://github.com/google/google-api-php-client/releases
+
